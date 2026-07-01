@@ -67,17 +67,10 @@ You can:
 - Add fullscreen support
 - Integrate it into larger web projects
 
-## Browser Support
+## 🌐 Demo You can try Nexura OS right now by opening the `Nexura OS.html` file in your browser, or by hosting it on any static server (GitHub Pages, Netlify, etc.)
 
-- Google Chrome
-- Microsoft Edge
-- Mozilla Firefox
-- Safari
-- Opera
-
-## License
-
-This project is intended for educational and personal use.
+https://hcodx.com/vs-editor?project=p_mr1u1k2o_3z0iv1
+---
 
 ## Author
 
